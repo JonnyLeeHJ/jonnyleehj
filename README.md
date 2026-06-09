@@ -1,6 +1,6 @@
 # Hi, I'm Jonathan Lee 👋
 
-Analytics Engineer working on the modern data stack — dbt, SQL, Python, LookML, and AWS Redshift.
+Analytics Engineer focused on e-commerce and digital marketing analytics on the modern data stack — dbt, SQL, Python, LookML, and AWS Redshift.
 
 I build production analytics platforms: dimensional data models, revenue attribution, sessionization, data-quality testing, and executive reporting. Currently at StackCommerce, where I architect and maintain a company-wide dbt platform (75+ models) powering revenue and financial analytics.
 
